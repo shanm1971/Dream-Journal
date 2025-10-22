@@ -1,0 +1,7 @@
+{
+  "name": "Dream Journal AI",
+  "description": "A multi-modal dream journal that uses AI to transcribe, interpret, and visualize your dreams. Record your dream with your voice, see a surrealist image of its theme, get a psychological interpretation, and chat with an AI assistant about its meaning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
